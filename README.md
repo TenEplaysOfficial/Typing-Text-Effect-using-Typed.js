@@ -44,7 +44,7 @@ To ensure the effect looks good on the page, I added basic CSS for centering the
 
 This project is a simple demonstration of how Typed.js can create a professional-looking typing effect with minimal setup. It’s a great tool for adding interactive and eye-catching text animations to any website.
 
-```
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
